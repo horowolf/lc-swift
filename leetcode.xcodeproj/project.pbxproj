@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1260045C222FA7C100880605 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1260045B222FA7C100880605 /* main.swift */; };
+		1260045C222FA7C100880605 /* NimGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1260045B222FA7C100880605 /* NimGame.swift */; };
+		12600463222FAB9C00880605 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12600462222FAB9C00880605 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +25,8 @@
 
 /* Begin PBXFileReference section */
 		12600458222FA7C100880605 /* leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
-		1260045B222FA7C100880605 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		1260045B222FA7C100880605 /* NimGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NimGame.swift; sourceTree = "<group>"; };
+		12600462222FAB9C00880605 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +59,8 @@
 		1260045A222FA7C100880605 /* leetcode */ = {
 			isa = PBXGroup;
 			children = (
-				1260045B222FA7C100880605 /* main.swift */,
+				12600462222FAB9C00880605 /* main.swift */,
+				1260045B222FA7C100880605 /* NimGame.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -119,7 +122,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1260045C222FA7C100880605 /* main.swift in Sources */,
+				12600463222FAB9C00880605 /* main.swift in Sources */,
+				1260045C222FA7C100880605 /* NimGame.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

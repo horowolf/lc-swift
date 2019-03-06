@@ -8,5 +8,7 @@
 
 import Foundation
 
-print("Hello, World!")
-
+print(Solution.init().canWinNim(4))
+print(Solution.init().canWinNim(3))
+print(Solution.init().canWinNim(6))
+print(Solution.init().canWinNim(33))
