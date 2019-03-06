@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "86fae324573e54a7a498fbedbc569862"
+build_time: [1551855686, 765600000]
+inputs:
+  "/Users/horowolf/Desktop/leetcode/leetcode/main.swift": [1551855681, 0]
