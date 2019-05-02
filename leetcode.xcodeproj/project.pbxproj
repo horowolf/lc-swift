@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		123B9E50227AFE0200EA9B51 /* SuperPow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123B9E4F227AFE0200EA9B51 /* SuperPow.swift */; };
 		1260045C222FA7C100880605 /* NimGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1260045B222FA7C100880605 /* NimGame.swift */; };
 		12600463222FAB9C00880605 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12600462222FAB9C00880605 /* main.swift */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		123B9E4F227AFE0200EA9B51 /* SuperPow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperPow.swift; sourceTree = "<group>"; };
 		12600458222FA7C100880605 /* leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		1260045B222FA7C100880605 /* NimGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NimGame.swift; sourceTree = "<group>"; };
 		12600462222FAB9C00880605 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 			children = (
 				12600462222FAB9C00880605 /* main.swift */,
 				1260045B222FA7C100880605 /* NimGame.swift */,
+				123B9E4F227AFE0200EA9B51 /* SuperPow.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			files = (
 				12600463222FAB9C00880605 /* main.swift in Sources */,
 				1260045C222FA7C100880605 /* NimGame.swift in Sources */,
+				123B9E50227AFE0200EA9B51 /* SuperPow.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -10,7 +10,7 @@
 
 import Foundation
 
-class Solution {
+class NimGame {
     func canWinNim(_ n: Int) -> Bool {
         return n % 4 != 0
     }
