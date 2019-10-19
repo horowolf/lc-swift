@@ -10,6 +10,7 @@
 		123B9E50227AFE0200EA9B51 /* SuperPow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123B9E4F227AFE0200EA9B51 /* SuperPow.swift */; };
 		1260045C222FA7C100880605 /* NimGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1260045B222FA7C100880605 /* NimGame.swift */; };
 		12600463222FAB9C00880605 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12600462222FAB9C00880605 /* main.swift */; };
+		1270D09323080A88005F87C9 /* Jump Game II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1270D09223080A88005F87C9 /* Jump Game II.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		12600458222FA7C100880605 /* leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		1260045B222FA7C100880605 /* NimGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NimGame.swift; sourceTree = "<group>"; };
 		12600462222FAB9C00880605 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		1270D09223080A88005F87C9 /* Jump Game II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Jump Game II.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				12600462222FAB9C00880605 /* main.swift */,
 				1260045B222FA7C100880605 /* NimGame.swift */,
 				123B9E4F227AFE0200EA9B51 /* SuperPow.swift */,
+				1270D09223080A88005F87C9 /* Jump Game II.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				12600463222FAB9C00880605 /* main.swift in Sources */,
+				1270D09323080A88005F87C9 /* Jump Game II.swift in Sources */,
 				1260045C222FA7C100880605 /* NimGame.swift in Sources */,
 				123B9E50227AFE0200EA9B51 /* SuperPow.swift in Sources */,
 			);

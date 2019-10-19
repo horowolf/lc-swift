@@ -8,7 +8,6 @@
 
 import Foundation
 
-print(Solution.init().canWinNim(4))
-print(Solution.init().canWinNim(3))
-print(Solution.init().canWinNim(6))
-print(Solution.init().canWinNim(33))
+let j = Jump_Game_II()
+
+print(j.jump([2,3,1]))
