@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
-options: "656f53295874eee5dbc4a2199224d026"
-build_time: [1556792963, 837109000]
-inputs:
-  "/Users/horowolf/Desktop/leetcode/leetcode/main.swift": [1551856761, 935989373]
-  "/Users/horowolf/Desktop/leetcode/leetcode/NimGame.swift": [1551856689, 184304864]
-  "/Users/horowolf/Desktop/leetcode/leetcode/SuperPow.swift": [9223372036, 854775807]
